@@ -18,7 +18,7 @@ The analysis was performed using NumPy, Pandas, and Matplotlib, covering all the
 - Compare product prices with ratings.
 - Categorize products into Premium and Budget segments.
 - Visualize insights using multiple chart types.
-
+- This project was built as part of my Data Science learning journey to apply NumPy, Pandas, and Matplotlib on a real-world dataset.
 ---
 
 ## 🛠️ Technologies Used
@@ -32,6 +32,7 @@ The analysis was performed using NumPy, Pandas, and Matplotlib, covering all the
 
 ## 📂 Dataset Information
 
+Dataset Source: Kaggle Fashion Dataset
 The dataset contains information about fashion products available on Myntra.
 
 ### Dataset Features
@@ -121,6 +122,10 @@ based on their average rating.
 
 ## 📊 Project Visualizations
 
+## 📊 Dashboard
+
+![Dashboard](Images/Myntra_Dashboard.jpg)
+
 ### Top 10 Brands on Myntra
 
 ![Top Brands](Images/top_brands.jpg)
@@ -144,11 +149,6 @@ based on their average rating.
 ### Premium vs Budget Products
 
 ![Pie Chart](Images/pie_chart_graph.jpg)
-
-## 📊 Dashboard
-
-![Dashboard](Images/Myntra_Dashboard.jpg)
-
 ---
 
 ## 🔍 Key Insights
@@ -172,12 +172,12 @@ Myntra-Fashion-Analysis/
 ├── README.md
 │
 ├── Images/
-│   ├── Top_Brands.png
-│   ├── Top_Colors.png
-│   ├── Price_Distribution.png
-│   ├── Rating_Distribution.png
-│   ├── Scatter_Plot.png
-│   └── Pie_Chart.png
+│   ├── Top_Brands.jpg
+│   ├── Top_Colors.jpg
+│   ├── Price_Distribution.jpg
+│   ├── Rating_Distribution.jpg
+│   ├── Scatter_Plot.jpg
+│   └── Pie_Chart.jpg
 ```
 
 ---
@@ -197,7 +197,7 @@ Myntra-Fashion-Analysis/
 
 B.Tech Student | Data Science Enthusiast
 
-GitHub: https://github.com/suraj-tiwary18
+GitHub: [suraj-tiwary18](https://github.com/suraj-tiwary18)
 
 ---
 
