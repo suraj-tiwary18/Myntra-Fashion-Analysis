@@ -122,7 +122,7 @@ based on their average rating.
 
 ## 📊 Project Visualizations
 
-## 📊 Dashboard
+## Dashboard
 
 ![Dashboard](Images/Myntra_Dashboard.jpg)
 
@@ -197,7 +197,8 @@ Myntra-Fashion-Analysis/
 
 B.Tech Student | Data Science Enthusiast
 
-GitHub: [suraj-tiwary18](https://github.com/suraj-tiwary18)
+- GitHub: [suraj-tiwary18](https://github.com/suraj-tiwary18)
+- LinkedIn: https://linkedin.com/in/suraj-tiwari-580984332/
 
 ---
 
