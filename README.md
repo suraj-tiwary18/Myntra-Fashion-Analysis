@@ -198,8 +198,7 @@ Myntra-Fashion-Analysis/
 B.Tech Student | Data Science Enthusiast
 
 - GitHub: [suraj-tiwary18](https://github.com/suraj-tiwary18)
-- LinkedIn: https://linkedin.com/in/suraj-tiwari-580984332/
-
+- LinkedIn: [surajtiwari](https://linkedin.com/in/suraj-tiwari-580984332/)
 ---
 
 ⭐ If you found this project useful, feel free to star the repository.
